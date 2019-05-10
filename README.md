@@ -20,3 +20,9 @@ https://www.geeksforgeeks.org/linked-list-in-java/
 https://www.google.com/search?q=comparator+java&oq=Comparator+java&aqs=chrome.0.0l6.16638j0j7&sourceid=chrome&ie=UTF-8
 
 https://docs.oracle.com/javase/7/docs/api/java/util/Comparator.html
+
+## java interpreted or compiled
+
+https://www.google.com/search?ei=2mHVXOjoH8aEjLsP6fuCsAo&q=java+interpreted+or+compiled&oq=java+interpre&gs_l=psy-ab.1.2.0l3j0i203l7.8503.13334..16845...0.0..0.101.806.8j1......0....1..gws-wiz.......0i71j35i39j35i39i19j0i67j0i20i263.nZx46cFa8ZA
+
+https://stackoverflow.com/questions/3893644/why-is-java-labeled-as-a-secure-language
